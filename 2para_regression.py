@@ -2,6 +2,7 @@ import tensorflow as tf
 import numpy as np
 import os
 import tensorflow
+import sys
 
 w=tf.Variable(tf.zeros([2,1]),dtype=tf.float32)
 b=tf.Variable(tf.zeros([1]),dtype=tf.float32)
