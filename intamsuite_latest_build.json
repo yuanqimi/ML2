@@ -1,0 +1,22 @@
+{
+    "intamsuite": {
+        "Windows": {
+            "major": 3,
+            "minor": 9,
+            "revision": 0,
+            "url": "https://meta.box.lenovo.com/v/link/view/77117910a7514ae0b253e3955c9493e3"
+        },
+        "Linux": {
+            "major": 3,
+            "minor": 9,
+            "revision": 0,
+            "url": "https://meta.box.lenovo.com/v/link/view/77117910a7514ae0b253e3955c9493e3"
+        },
+        "Darwin": {
+            "major": 3,
+            "minor": 9,
+            "revision": 0,
+            "url": "https://meta.box.lenovo.com/v/link/view/77117910a7514ae0b253e3955c9493e3
+        }
+    }
+}
